@@ -1,0 +1,18 @@
+# Python virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Dataset files
+data/
+
+# Mac system files
+.DS_Store
+
+# Model files
+models/
+*.pkl
+.venv/
